@@ -1,6 +1,6 @@
 import unittest
 
-from flaskapp
+from flaskapp import app
 from redis import Redis
 
 class CounterTest(unittest.TestCase):
